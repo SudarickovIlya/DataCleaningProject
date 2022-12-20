@@ -36,7 +36,7 @@
 
 
 ### Этапы работы над проектом  
-Этапами работы над проектом были написание функции "random_predict" для угадывания числа с условием использования бинарного поиска и score_game для угадывания среднего количнества попыток за 1000 подходов. Проект оформлен в файле "test".
+Этапами работы над проектом были написание функции "random_predict" для угадывания числа с условием использования бинарного поиска и score_game для угадывания среднего количнества попыток за 1000 подходов. Проект оформлен в файле "test" на основе схожего [проекта](https://docviewer.yandex.com/view/156408772/?*=9%2FXpS5GfJyjQd1Ke9g3lZyB2EIF7InVybCI6InlhLWRpc2s6Ly8vZGlzay9ndWVzcy1udW1iZXItdGFzayAoMikuemlwIiwidGl0bGUiOiJndWVzcy1udW1iZXItdGFzayAoMikuemlwIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxNTY0MDg3NzIiLCJ0cyI6MTY3MTUzNDA3Mjc4OSwieXUiOiI4NzkzMzA2MTY2ODEwMjMzNyJ9) из курса Data Scientist от школы Skillfactory.
 
 :arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/HW-01#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
