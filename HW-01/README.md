@@ -41,13 +41,13 @@
 :arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/HW-01#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
-### Результаты:  
+### Результат 
 В результате была получена функция для угадывания числа за 6 попыток.
 
 :arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/HW-01#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
-### Выводы:  
+### Выводы
 В Python возможно прописать функцию рандомного поиска числа за минимальное количество попыток.
 
 :arrow_up:[к оглавлению](https://github.com/SudarickovIlya/SF_DS_Ilya/tree/main/HW-01#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
