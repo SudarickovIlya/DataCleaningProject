@@ -9,7 +9,7 @@ ordered_client_ages['Ilia'] = 23
 print(ordered_client_ages)
 print()
 
-ordered_client_ages = OrderedDict(sorted(data, key=lambda x: x[1]))
+ordered_client_ages = OrderedDict(sorted(data, key=lambda x: x[1], reverse=True))
 ordered_client_ages['Sonya'] = 24
 del ordered_client_ages['Sonya']
 print(ordered_client_ages)
