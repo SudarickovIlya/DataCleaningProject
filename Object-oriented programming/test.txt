@@ -1,0 +1,2 @@
+There is a test string
+There is a new string
