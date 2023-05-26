@@ -110,5 +110,27 @@ outliers_z_score, cleaned_z_score = find_outliers_z_score(data, feature, log=Tru
 * [Метод межквартильного размаха](https://recture.ru/common/chto-takoe-pravilo-mezhkvartilnogo-razmaha/)
 * [Правило трех сигм](https://wiki.loginom.ru/articles/3-sigma-rule.html)
 
+--- 
 
+![Не вставилось](https://i.imgur.com/3uj9teq.png)
 
+---
+<center > <img src=https://i.imgur.com/3uj9teq.png width=500px height=30%> </center>
+
+---
+
+`python
+
+lst = [10, 34, 21, 21, 3]
+
+summa = sum(lst)`
+
+> Цитируемый текст
+
+$$a = 0$$
+
+$$\sigma = 14578$$
+
+$$145^{ab}_{cd}$$
+
+$$187 * \frac{145}{x^{acv} - 2}$$
