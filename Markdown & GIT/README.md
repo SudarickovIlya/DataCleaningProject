@@ -146,4 +146,4 @@ $$187 * \frac{145}{x^{acv} - 2}$$
 2. Второе
 3. Третье
 
-<center><img src=https://raw.githubusercontent.com/chandrikadeb7/Face-Mask-Detection/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png width=300 height=200>
+<center><img src=https://raw.githubusercontent.com/chandrikadeb7/Face-Mask-Detection/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png width=300 height=200> </center>
