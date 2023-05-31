@@ -112,3 +112,10 @@ outliers_z_score, cleaned_z_score = find_outliers_z_score(data, feature, log=Tru
 
 
 
+---
+# Новый пример
+<center> <img src=https://raw.githubusercontent.com/Vrushti24/Face-Mask-Detection/logo/Logo/facemaskdetection.ai%20%40%2051.06%25%20(CMYK_GPU%20Preview)%20%2018-02-2021%2018_33_18%20(2).png height=200 width=200> </center>
+
+Добавлено описание $+\frac{формула_{формула}}{формула^{формула}}$
+
+<center> <img src=https://raw.githubusercontent.com/chandrikadeb7/Face-Mask-Detection/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png width=300 height=200> </center>
