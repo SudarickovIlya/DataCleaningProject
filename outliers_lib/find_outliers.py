@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 def find_outliers_iqr(data, feature, left=1.5, right=1.5, log_scale=False):
-    """
+    """ 
     Находит выбросы в данных, используя метод межквартильного размаха. 
     Классический метод модифицирован путем добавления:
     * возможности логарифмирования распредления
